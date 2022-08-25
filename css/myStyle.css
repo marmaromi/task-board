@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/tile.jpg");
+}
+
+.title {
+    font-family: "Brush Script MT";
+    font-size: 70px;
+    -webkit-text-stroke: 0.2px white;
+    color: black;
+}
+
+.notebook {
+    background-image: url("../images/formbg.jpg");
+    max-width: 800px;
+}
+
+.form-control {
+    background-color: transparent;
+}
+.note-bg {
+    background-image: url("../images/notebg.png");
+    background-size: cover;
+    height: 250px;
+    width: 200px;
+}
+
+.note-txt {
+    height: 150px;
+    margin-top: 10px;
+}
